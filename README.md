@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CA6A2&size=40&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VINICIUS0098876&show_icons=true&count_private=true&border=true&border_color=7CA6A2&title_color=7CA6A2&icon_color=7CA6A2&text_color=fff&bg_color=DEG,162526,0D0D0D,162526" alt="Vinicius github stats" /> 
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINICIUS0098876&layout=compact&border=true&border_color=7CA6A2&title_color=7CA6A2&text_color=fff&bg_color=DEG,162526,0D0D0D,162526" />
 </div>
 
