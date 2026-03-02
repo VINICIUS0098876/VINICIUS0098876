@@ -15,9 +15,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F7373&height=120&section=footer"/>
 
-# Project Title
-
-Welcome to my project!
 
 ## About Me
 
