@@ -20,6 +20,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-162526?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-162526?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-162526?style=for-the-badge&logo=java&logoColor=ED8B00)
 ![Node.js](https://img.shields.io/badge/Node.js-162526?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-162526?style=for-the-badge&logo=express&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-162526?style=for-the-badge&logo=mysql&logoColor=4479A1)
