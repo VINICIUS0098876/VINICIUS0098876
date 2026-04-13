@@ -39,18 +39,12 @@ Oi! Eu sou o Vinícius — Software Developer com foco em desenvolvimento back-e
 
 ## 🚀 Projetos em Destaque / Featured Projects
 
-<div align="center">
-
-[![CoreWallet-API](https://github-readme-stats.vercel.app/api/pin/?username=VINICIUS0098876&repo=CoreWallet-API&bg_color=162526&title_color=7CA6A2&text_color=ffffff&icon_color=7CA6A2&border_color=4F7373)](https://github.com/VINICIUS0098876/CoreWallet-API)
-[![Resource_Booking_API](https://github-readme-stats.vercel.app/api/pin/?username=VINICIUS0098876&repo=Resource_Booking_API&bg_color=162526&title_color=7CA6A2&text_color=ffffff&icon_color=7CA6A2&border_color=4F7373)](https://github.com/VINICIUS0098876/Resource_Booking_API)
-
-[![ResumesHub-API](https://github-readme-stats.vercel.app/api/pin/?username=VINICIUS0098876&repo=ResumesHub-API&bg_color=162526&title_color=7CA6A2&text_color=ffffff&icon_color=7CA6A2&border_color=4F7373)](https://github.com/VINICIUS0098876/ResumesHub-API)
-[![Agendamento-MVP](https://github-readme-stats.vercel.app/api/pin/?username=VINICIUS0098876&repo=Agendamento-MVP&bg_color=162526&title_color=7CA6A2&text_color=ffffff&icon_color=7CA6A2&border_color=4F7373)](https://github.com/VINICIUS0098876/Agendamento-MVP)
-
-[![inventory_management](https://github-readme-stats.vercel.app/api/pin/?username=VINICIUS0098876&repo=inventory_management&bg_color=162526&title_color=7CA6A2&text_color=ffffff&icon_color=7CA6A2&border_color=4F7373)](https://github.com/VINICIUS0098876/inventory_management)
-[![BusAlert](https://github-readme-stats.vercel.app/api/pin/?username=VINICIUS0098876&repo=BusAlert&bg_color=162526&title_color=7CA6A2&text_color=ffffff&icon_color=7CA6A2&border_color=4F7373)](https://github.com/VINICIUS0098876/BusAlert)
-
-</div>
+* **[CoreWallet-API](https://github.com/VINICIUS0098876/CoreWallet-API)**: API voltada para o desenvolvimento de uma carteira digital, com foco em operações financeiras e gerenciamento de contas. *(TypeScript)*
+* **[Resource_Booking_API](https://github.com/VINICIUS0098876/Resource_Booking_API)**: API dedicada ao controle e gerenciamento de reservas de recursos e espaços compartilhados organizacionais. *(TypeScript)*
+* **[ResumesHub-API](https://github.com/VINICIUS0098876/ResumesHub-API)**: Centraliza e organiza currículos para empresas, tornando o processo de triagem e seleção mais eficiente. *(TypeScript)*
+* **[Agendamento-MVP](https://github.com/VINICIUS0098876/Agendamento-MVP)**: Solução prática para organizar horários, facilitar o agendamento e aumentar a produtividade no gerenciamento de compromissos. *(TypeScript)*
+* **[BusAlert](https://github.com/VINICIUS0098876/BusAlert)**: App mobile nativo para alertar a chegada no ponto de destino, garantindo um descanso tranquilo no transporte público. *(TypeScript)*
+* **[inventory_management](https://github.com/VINICIUS0098876/inventory_management)**: Sistema para cadastro, monitoramento e controle de inventário de produtos. *(JavaScript)*
 
 <br/>
 
